@@ -1,4 +1,10 @@
-[
+{
+  "$jason": {
+    "head": {
+      "title": "{ ˃̵̑ᴥ˂̵̑}",
+      "actions": {
+        "$foreground": {
+          "type": "$reload"[
   {"tag":"meta","charset":"UTF-8","html":""},
   {"tag":"meta","name":"viewport","content":"width=device-width, initial-scale=1","html":""},
   {"tag":"link","href":"http://gmpg.org/xfn/11","rel":"profile","html":""},
