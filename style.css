@@ -474,7 +474,7 @@ strong {
 
 /*BEGIN Xbox One Controller Styling*/
 .controller.xbox {
-    background: url(xbox-assets/base.svg);
+    background: url(https://raw.githubusercontent.com/KizerAir/thekingofcool/master/base-white.svg);
     height: 630px;
     width: 750px;
     /*    margin-left: -375px;
@@ -482,7 +482,7 @@ strong {
 }
 
 .xbox.white {
-    background: url(https://raw.githubusercontent.com/KizerAir/thekingofcool/master/style.css
+    background: url(xbox-assets/base-white.svg);
 }
 
 .xbox.disconnected {
